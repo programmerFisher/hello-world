@@ -1,2 +1,2 @@
 # hello-world
-first repository
+my frist gitDemo1
