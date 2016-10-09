@@ -1,2 +1,2 @@
 # hello-world
-my frist gitDemo1
+local git stadus
